@@ -10,7 +10,7 @@ export const COMPANY = {
   hours: "Mon – Sat · 8:00 AM – 8:00 PM",
   websites: [],
   socials: {
-    facebook: "https://www.facebook.com/profile.php?id=61572120569006",
+    facebook: "https://www.facebook.com/people/Air-connection/61590649500182",
     instagram: "https://www.instagram.com/airconnection.travels/",
     linkedin: "https://www.linkedin.com/company/airconnection-travels/",
     twitter: "https://twitter.com/airconnection",
